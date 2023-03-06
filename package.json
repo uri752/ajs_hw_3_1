@@ -1,0 +1,23 @@
+{
+  "name": "ajs_hw_3_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uri752/ajs_hw_3_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uri752/ajs_hw_3_1/issues"
+  },
+  "homepage": "https://github.com/uri752/ajs_hw_3_1#readme",
+  "dependencies": {
+    "@uri752/ajs_hw_3": "^1.0.0"
+  }
+}
